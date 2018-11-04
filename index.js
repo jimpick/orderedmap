@@ -125,5 +125,3 @@ OrderedMap.from = function(value) {
   if (value) for (var prop in value) content.push(prop, value[prop])
   return new OrderedMap(content)
 }
-
-module.exports = OrderedMap
