@@ -1,6 +1,6 @@
 {
-  "name": "orderedmap",
-  "version": "1.0.0",
+  "name": "@jimpick/orderedmap",
+  "version": "1.0.0-1",
   "description": "Persistent ordered mapping from strings",
   "main": "index.js",
   "repository": {

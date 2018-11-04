@@ -1,6 +1,6 @@
 // ::- Persistent data structure representing an ordered mapping from
 // strings to values, with some convenient update methods.
-function OrderedMap(content) {
+export default function OrderedMap(content) {
   this.content = content
 }
 
